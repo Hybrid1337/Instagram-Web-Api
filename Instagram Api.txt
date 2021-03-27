@@ -1,0 +1,8 @@
+Search = f'https://www.instagram.com/web/search/topsearch/?context=blended&query={Keyword}&rank_token=0.45774180814728527&include_reel=true'
+Info = f'https://i.instagram.com/api/v1/users/{ID}/info/'
+Info 2 = 'https://www.instagram.com/{Username}/?__a=1'
+View Story = 'https://i.instagram.com/api/v1/feed/reels_media/?reel_ids={Story Number}'
+UnFollow = 'https://www.instagram.com/web/friendships/{ID}/unfollow/'
+Follow = 'https://www.instagram.com/web/friendships/1421765679/follow/'
+Message = 'https://i.instagram.com/api/v1/direct_v2/create_group_thread/'
+Edit = 'https://www.instagram.com/accounts/edit/'
